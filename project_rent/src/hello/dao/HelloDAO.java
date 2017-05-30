@@ -10,7 +10,7 @@ import model.Hello;
 import util.DBUtil;
 
 public class HelloDAO {
-	private String changmok = "안녕";
+	private String changmok = "changmok1123";
 	private Connection con = null;
 	private PreparedStatement ps = null;
 	private ResultSet rs = null;
